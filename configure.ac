@@ -1,5 +1,5 @@
 # init autoconf
-AC_INIT( [HelloWorld], [0.1] )
+AC_INIT( [hello-world], [0.1] )
 
 # init automake
 #		foreign - do not require standard files

@@ -1,5 +1,5 @@
 # binaries to compile
-bin_PROGRAMS = bin/HelloWorld
+bin_PROGRAMS = bin/hello-world
 
 # hellow world sources
-bin_HelloWorld_SOURCES = src/Main.cpp
+bin_hello_world_SOURCES = src/Main.cpp
